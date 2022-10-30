@@ -1,4 +1,4 @@
-package com.epam.rd.autotasks.sprintplanning.tickets;
+package tickets;
 
 public class Ticket {
     protected int idTicket;
