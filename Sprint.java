@@ -1,8 +1,6 @@
-package com.epam.rd.autotasks.sprintplanning;
-
-import com.epam.rd.autotasks.sprintplanning.tickets.Bug;
-import com.epam.rd.autotasks.sprintplanning.tickets.Ticket;
-import com.epam.rd.autotasks.sprintplanning.tickets.UserStory;
+import tickets.Bug;
+import tickets.Ticket;
+import tickets.UserStory;
 
 import java.util.Arrays;
 import java.util.Objects;
