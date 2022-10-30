@@ -1,4 +1,4 @@
-package com.epam.rd.autotasks.sprintplanning.tickets;
+package tickets;
 
 public class Bug extends Ticket {
     public UserStory userStory;
